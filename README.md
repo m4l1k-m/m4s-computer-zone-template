@@ -1,4 +1,2 @@
-# PROJECT
-hello# malik-project.github.io
-# malik-project.github.io
-# malik-project.github.io
+# Project
+This is my HTML template i made.
